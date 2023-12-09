@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "829343391276",
+    "project_id": "medremind-auth",
+    "storage_bucket": "medremind-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829343391276:android:04a946751f3b4d77467b89",
+        "android_client_info": {
+          "package_name": "com.example.tubes_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829343391276-dr8h6p6tep92vagdf7q0aqcp287c4r5j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tubes_auth",
+            "certificate_hash": "1a98178f0da4e9614cd88e7a92fda2ae703ad6c0"
+          }
+        },
+        {
+          "client_id": "829343391276-rjrsr7ka1piir3jfu4pc7hqbdn5cqe9d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKP86NcjZwbXfCwtdSimzm-_PiBD2sEgU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829343391276-rjrsr7ka1piir3jfu4pc7hqbdn5cqe9d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

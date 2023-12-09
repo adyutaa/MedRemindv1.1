@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="darkgray">#6A707C</color>
+    <color name="blueFigma">#00A9FF</color>
+    <color name="grayInput">#F7F8F9</color>
+
+    <color name="blue">#459DE4</color>
+    <color name="red">#FF0000</color>
+
+    <color name="light_gray">#EBEBEB</color>
+    <color name="selected_button_color">#8391A1</color>
+
+    <color name="selected_image_color">#EBEBEB</color>
+</resources>

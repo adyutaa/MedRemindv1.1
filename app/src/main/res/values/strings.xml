@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TUBES-Auth</string>
+    <string name="default_web_client_id" translatable="false">325645361126-v9364jc61cko5075t4noco948oc7juji.apps.googleusercontent.com</string>
+
+</resources>
